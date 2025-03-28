@@ -15,7 +15,7 @@ os.environ['SMTP_USER']="info@mipo.sakura.ne.jp"
 
 os.environ['SMTP_PASSWORD'] = "5yw6da98"
 os.environ['MAIL_FROM'] = "info@mipo.co.jp"
-os.environ['MAIL_TO'] = "y.nakamura@digital-city.jp"
+os.environ['MAIL_TO'] = "nemoto@mipo.co.jp"
 
 from wsgiref.handlers import CGIHandler
 from app import app
